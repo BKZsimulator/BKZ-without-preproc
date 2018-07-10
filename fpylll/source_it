@@ -1,0 +1,3 @@
+#!/bin/bash
+
+source ~/suite/sb_fpylll/env/bin/activate

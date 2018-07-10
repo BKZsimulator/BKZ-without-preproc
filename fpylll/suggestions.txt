@@ -1,0 +1,3 @@
+ipython
+numpy
+Sphinx>=1.6

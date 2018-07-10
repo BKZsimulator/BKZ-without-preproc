@@ -1,0 +1,11 @@
+from svpchallenge_par3 import *
+for b in `git branch -r | grep -v -- '->'`; do git branch --track ${b##origin/} $b; done
+git fetch --all
+
+
+# To activate this environment, use:
+# > source activate env
+#
+# To deactivate this environment, use:
+# > source deactivate env
+
